@@ -31,15 +31,16 @@
 
 ## Credits
 
-| Resource                          | Link                                                                                                              |
-| --------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| 2.5" hdd reference model          | https://grabcad.com/library/western-digital-2-5-hard-disk-drive-hdd-wd1600bevs-1                                  |
-| 60x15mm fan reference model       | https://grabcad.com/library/dc_fan-60x60x15mm-1                                                                   |
-| 40mm fan reference model          | https://grabcad.com/library/40mm-fan-8                                                                            |
-| 1.8" TFT LCD reference model      | https://grabcad.com/library/ws16-128x160-1-8-1-8-1-8-inch-serial-spi-tft-lcd-panel-1                              |
-| RPi 3B reference model            | https://grabcad.com/library/raspberry-pi-3-model-b-reference-design-solidworks-cad-raspberry-pi-raspberrypi-rpi-1 |
-| Meanwell LRS-50-X reference model | https://grabcad.com/library/lrs-50-24-1                                                                           |
-| Raspberry Pi Quad 2.5" HDD Case   | https://www.thingiverse.com/thing:5176227                                                                         |
-| Raspberry Pi Dual 2.5" HDD Case   | https://www.thingiverse.com/thing:3850735                                                                         |
-| Double stack 2.5" drive bracket   | https://www.printables.com/model/237884/files                                                                     |
-| RJ45 extender connector           | https://grabcad.com/library/rj45-female-connector-1                                                               |
+| Resource                                  | Link                                                                                                              |
+| ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| 2.5" hdd reference model                  | https://grabcad.com/library/western-digital-2-5-hard-disk-drive-hdd-wd1600bevs-1                                  |
+| SATA-3 to USB 3.0 adapter reference model | https://grabcad.com/library/sata-3-to-usb-3-0-adapter-1                                                           |
+| 60x15mm fan reference model               | https://grabcad.com/library/dc_fan-60x60x15mm-1                                                                   |
+| 40mm fan reference model                  | https://grabcad.com/library/40mm-fan-8                                                                            |
+| 1.8" TFT LCD reference model              | https://grabcad.com/library/ws16-128x160-1-8-1-8-1-8-inch-serial-spi-tft-lcd-panel-1                              |
+| RPi 3B reference model                    | https://grabcad.com/library/raspberry-pi-3-model-b-reference-design-solidworks-cad-raspberry-pi-raspberrypi-rpi-1 |
+| Meanwell LRS-50-X reference model         | https://grabcad.com/library/lrs-50-24-1                                                                           |
+| Raspberry Pi Quad 2.5" HDD Case           | https://www.thingiverse.com/thing:5176227                                                                         |
+| Raspberry Pi Dual 2.5" HDD Case           | https://www.thingiverse.com/thing:3850735                                                                         |
+| Double stack 2.5" drive bracket           | https://www.printables.com/model/237884/files                                                                     |
+| RJ45 extender connector                   | https://grabcad.com/library/rj45-female-connector-1                                                               |
